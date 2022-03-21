@@ -1,5 +1,6 @@
 # rock-paper-scissors
 [![Java CI with Gradle](https://github.com/simple0x47/rock-paper-scissors/actions/workflows/gradle.yml/badge.svg)](https://github.com/simple0x47/rock-paper-scissors/actions/workflows/gradle.yml)
+
 Basic rock paper scissors with remote capacities
 
 ## How to play remotely?
