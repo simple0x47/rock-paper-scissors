@@ -1,0 +1,128 @@
+Player 1 played SCISSORS.
+Player 2 played ROCK.
+
+### PLAYER 2 WINS ###
+
+### [PLAYER 1] ###
+Won: 0
+Tied: 1
+Lost: 1
+
+
+### [PLAYER 2] ###
+Won: 1
+Tied: 1
+Lost: 0
+
+Player 1 played ROCK.
+Player 2 played ROCK.
+
+### TIE ###
+
+### [PLAYER 1] ###
+Won: 0
+Tied: 2
+Lost: 1
+
+
+### [PLAYER 2] ###
+Won: 1
+Tied: 2
+Lost: 0
+
+Player 1 played PAPER.
+Player 2 played SCISSORS.
+
+### PLAYER 2 WINS ###
+
+### [PLAYER 1] ###
+Won: 0
+Tied: 2
+Lost: 2
+
+
+### [PLAYER 2] ###
+Won: 2
+Tied: 2
+Lost: 0
+
+Player 1 played SCISSORS.
+Player 2 played SCISSORS.
+
+### TIE ###
+
+### [PLAYER 1] ###
+Won: 0
+Tied: 3
+Lost: 2
+
+
+### [PLAYER 2] ###
+Won: 2
+Tied: 3
+Lost: 0
+
+Player 1 played ROCK.
+Player 2 played ROCK.
+
+### TIE ###
+
+### [PLAYER 1] ###
+Won: 0
+Tied: 4
+Lost: 2
+
+
+### [PLAYER 2] ###
+Won: 2
+Tied: 4
+Lost: 0
+
+Player 1 played PAPER.
+Player 2 played SCISSORS.
+
+### PLAYER 2 WINS ###
+
+### [PLAYER 1] ###
+Won: 0
+Tied: 4
+Lost: 3
+
+
+### [PLAYER 2] ###
+Won: 3
+Tied: 4
+Lost: 0
+
+Player 1 played SCISSORS.
+Player 2 played SCISSORS.
+
+### TIE ###
+
+### [PLAYER 1] ###
+Won: 0
+Tied: 5
+Lost: 3
+
+
+### [PLAYER 2] ###
+Won: 3
+Tied: 5
+Lost: 0
+
+Player 1 played PAPER.
+Player 2 played SCISSORS.
+
+### PLAYER 2 WINS ###
+
+### [PLAYER 1] ###
+Won: 0
+Tied: 5
+Lost: 4
+
+
+### [PLAYER 2] ###
+Won: 4
+Tied: 5
+Lost: 0
+
